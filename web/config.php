@@ -1,7 +1,7 @@
 <?php
 $gl=(isset($_COOKIE['gl']) && $_COOKIE['gl'])?$_COOKIE['gl']:'US';
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyBhu6JQBh9lRUy88Qdl907zbUVWO_W6MPQ');
+define('APIKEY', 'AIzaSyBmYQPhWRuVcFG8XNO-WDBFLZpZtIkKlbY');
 define('GJ_CODE', $gl);
 define('SITE_NAME', 'sirenwanju');
 define('TITLENAME', 'fuckyou');
